@@ -1,0 +1,15 @@
+{
+  "name": "fixtures_playwright",
+  "version": "1.0.0",
+  "description": "A basic Fixture in playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Mukul Jha",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.1",
+    "@types/node": "^20.11.30"
+  }
+}
